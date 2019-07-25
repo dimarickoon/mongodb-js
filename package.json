@@ -1,0 +1,15 @@
+{
+  "name": "mongojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
